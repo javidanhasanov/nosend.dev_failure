@@ -1,4 +1,4 @@
-# nosend.dev
+# nosend.dev  https://44408023.nosend-bqs.pages.dev/
 
 > **Privacy-first developer tools that run 100% in your browser.**
 > Your files never leave your device. No upload. No server. No tracking.
